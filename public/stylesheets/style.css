@@ -1,0 +1,30 @@
+@font-face {
+font-family: fucklove;
+src: url("fonts/fuck_love.ttf");
+}
+
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1 {
+  font-family: fucklove;
+  color: pink;
+}
+
+.error {
+  font-size: 15px;
+  color: red;
+  font-weight:bold;
+}
+
+.success {
+  font-size: 15px;
+  color: green;
+  font-weight:bold;
+}
